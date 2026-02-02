@@ -1,0 +1,8 @@
+{
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "name": "Copy of 光遇风格2.0",
+  "description": ""
+}
